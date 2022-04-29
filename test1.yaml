@@ -6,7 +6,7 @@ metadata:
     role: myrole
 spec:
   containers:
-    - name: web1
+    - name: web12
       image: nginx
       ports:
         - name: web
